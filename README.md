@@ -44,7 +44,8 @@ cd LH_CD_JOANATS
 pip install -r requirements.txt
 ```
 
-3.jupyter notebook LH_CD_JOANATS.ipynb para visualizar o código e a documentação.
+3. Execute o notebook principal (LH_CD_JOANATS.ipynb) para visualizar o código e a documentação.
+
     - Use Jupyter Notebook ou Google Colab para abrir e rodar.
 
 ## 📁 Estrutura do Projeto
@@ -62,8 +63,6 @@ LH_CD_JOANATS/
 1. Instale as dependências exatas do requirements.txt
 
 2. Execute o notebook sequencialmente
-
-3. Os resultados serão reproduzíveis com a random seed configurada
    
 ## 👩💻 Contato
 
